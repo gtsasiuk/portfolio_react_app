@@ -8,8 +8,9 @@ import HomePage from "./pages/HomePage";
 import ProjectsPage from "./pages/ProjectsPage";
 import ContactsPage from "./pages/ContactsPage";
 import ProjectPage from "./pages/ProjectPage";
-
 import ScrollToTop from "./utils/ScrollToTop";
+
+
 
 function App() {
     return (
