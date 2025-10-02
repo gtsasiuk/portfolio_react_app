@@ -46,24 +46,21 @@ const projects = [
         title: 'Dating app',
         skills: 'React Native, Java, MySQL',
         img: project04,
-        imgBig: project04Big,
-        gitHubLink: 'https://github.com'
+        imgBig: project04Big
     }, 
     {
         id: 5,
         title: 'Landing',
         skills: 'HTML, CSS, React',
         img: project05,
-        imgBig: project05Big,
-        gitHubLink: 'https://github.com'
+        imgBig: project05Big
     }, 
     {
         id: 6,
         title: 'Gaming community',
         skills: 'React, Note.js, MySQL',
         img: project06,
-        imgBig: project06Big,
-        gitHubLink: 'https://github.com'
+        imgBig: project06Big
     }
 ]
 
