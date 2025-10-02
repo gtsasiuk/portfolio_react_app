@@ -9,10 +9,13 @@ import ProjectsPage from "./pages/ProjectsPage";
 import ContactsPage from "./pages/ContactsPage";
 import ProjectPage from "./pages/ProjectPage";
 
+import ScrollToTop from "./utils/ScrollToTop";
+
 function App() {
     return (
         <div className="App">
             <Router>
+                <ScrollToTop />
                 <Navbar />
                 <Routes>
                     <Route path="/" element={<HomePage />} />
